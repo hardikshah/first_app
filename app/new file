@@ -1,4 +1,0 @@
-hardik@ubuntu:~/Desktop/rb/rails_projects/first_app$ git config --global user.name Hardik
-hardik@ubuntu:~/Desktop/rb/rails_projects/first_app$ git config --global user.email hardikshah@gatech.edu
-hardik@ubuntu:~/Desktop/rb/rails_projects/first_app$ git config --global hardik.co checkout
-
